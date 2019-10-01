@@ -24,4 +24,4 @@ $:  dcl start
 
 Any dependencies are installed and then the CLI will open the scene in a new browser tab automatically.
 
-**Usage**
+
